@@ -1,7 +1,8 @@
 import React from "react";
 import Typed from 'react-typed';
 import { Grid } from "@material-ui/core";
-import "../Landing/style.css"
+import "../Landing/style.css";
+import Caro from "../../Components/Carousel/carousel"
 
 const Landing = () => {
 
@@ -40,6 +41,8 @@ const Landing = () => {
           </Grid>
   
         </div>
+
+        <Caro />
 
         </>
 
