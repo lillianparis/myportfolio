@@ -65,7 +65,7 @@ function Devcard() {
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Note Taker<i class="material-icons right">more_vert</i></span>
-                                <p><a href="#">View</a></p>
+                                <p><a href="">View</a></p>
                             </div>
                             <div class="card-reveal">
                                 <span class="card-title grey-text text-darken-4">Description<i class="material-icons right">close</i></span>
@@ -83,7 +83,7 @@ function Devcard() {
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Workday Scheduler<i class="material-icons right">more_vert</i></span>
-                                <p><a href="#">View</a></p>
+                                <p><a href="">View</a></p>
                             </div>
                             <div class="card-reveal">
                                 <span class="card-title grey-text text-darken-4">Description<i class="material-icons right">close</i></span>
@@ -106,7 +106,7 @@ function Devcard() {
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Artscape<i class="material-icons right">more_vert</i></span>
-                                <p><a href="#">Pending</a></p>
+                                <p><a href="">Pending</a></p>
                             </div>
                             <div class="card-reveal">
                                 <span class="card-title grey-text text-darken-4">Artscape<i class="material-icons right">close</i></span>
@@ -123,7 +123,7 @@ function Devcard() {
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Toolkit<i class="material-icons right">more_vert</i></span>
-                                <p><a href="#">Pending</a></p>
+                                <p><a href="">Pending</a></p>
                             </div>
                             <div class="card-reveal">
                                 <span class="card-title grey-text text-darken-4">Toolkit<i class="material-icons right">close</i></span>
@@ -140,7 +140,7 @@ function Devcard() {
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Shopper<i class="material-icons right">more_vert</i></span>
-                                <p><a href="#">Pending</a></p>
+                                <p><a href="">Pending</a></p>
                             </div>
                             <div class="card-reveal">
                                 <span class="card-title grey-text text-darken-4">Shopper<i class="material-icons right">close</i></span>
