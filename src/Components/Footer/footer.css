@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+footer {
+  position: flex-end;
+  bottom: 0;
+  height: 2em;
+  left: 0;
+  width:100%;
+
+}
+
+
+.text {
+  font-family: "Staatliches", cursive;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
