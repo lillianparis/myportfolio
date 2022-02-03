@@ -21,7 +21,7 @@ function footer() {
                 <ul>
                   {/* <li><a class="grey-text text-lighten-3" href="#!"><FontAwesomeIcon icon="fa-brands fa-github" /></a></li> */}
                   <li><a class="text2" id="1" href="https://www.linkedin.com/in/lillian-paris-7340401b4/">Linkedin</a></li>
-                  <li><a class="text2" href="#!">Resume</a></li>
+                  <li><a class="text2" href="https://github.com/lillianparis?tab=repositories">Github</a></li>
                   <li><a class="text2" href="#!">Portfolio</a></li>
                 </ul>
               </div>

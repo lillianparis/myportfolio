@@ -8,6 +8,11 @@ footer {
   width:100%;
 
 }
+.page-footer .footer-copyright {
+  background-color:black;
+  font-family: "Staatliches", cursive;
+
+}
 
 
 .text2 {
