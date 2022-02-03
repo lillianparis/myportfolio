@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+
+.hello {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-family: "Staatliches", cursive;
+  font-size: 80px;
+}
+
+
+
+Label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-family: "Staatliches", cursive;
+  font-size: 30px;
+}
+
+.btn {
+
+  margin-left: 350px;
+  background-color: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
