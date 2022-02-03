@@ -1,8 +1,10 @@
 import React from "react";
 import Typed from 'react-typed';
 import { Grid } from "@material-ui/core";
+import { Row, Container } from "react-bootstrap";
 import "../Landing/style.css";
-import Caro from "../../Components/Carousel/carousel"
+import Caro from "../../Components/Carousel/carousel";
+import About from "../../Components/About/about"
 
 const Landing = () => {
 
@@ -41,8 +43,18 @@ const Landing = () => {
           </Grid>
   
         </div>
+<Container>
+  <Row>
+  <Caro />
+  </Row>
+</Container>
 
-        <Caro />
+<Container>
+  <Row>
+  <About />
+  </Row>
+</Container>
+  
 
         </>
 

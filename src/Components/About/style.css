@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+#picture {
+  width: 300px;
+  height: 360px;
+  float: left;
+  margin-left: 30px;
+}
+
+
+
+.card-title {
+  font-family: "Staatliches", cursive;
+  color: white;
+}
