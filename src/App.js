@@ -6,11 +6,15 @@ import Contact from "../src/Pages/Contact/contact";
 import Developments from "../src/Pages/Developments/developments";
 import Resume from "../src/Pages/Resume/resume";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import ParticlesBg from 'particles-bg';
 
 
 function App() {
   return (
     <>
+     <div className="cobweb">
+        <ParticlesBg type="cobweb" bg={true} />
+      </div>
       <Navbar />
       <Router>
         <Routes>

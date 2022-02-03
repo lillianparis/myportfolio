@@ -34,13 +34,13 @@ const Landing = () => {
             <Typed
               strings={[
                 'Full Stack Web Developer',
-                'Current Web Development Instructor',
-                'U of A Coding Bootcamp Graduate']}
+                'Web Development Instructor',
+                'U of A Graduate']}
               typeSpeed={40}
               backSpeed={50}
               attr="placeholder"
               loop >
-              <input type="text" />
+              <input type="text" class="hello" />
             </Typed>
           </Grid>
   

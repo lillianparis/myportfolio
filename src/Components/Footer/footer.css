@@ -10,8 +10,9 @@ footer {
 }
 
 
-.text {
+.text2 {
+  margin-top: 200px;
   font-family: "Staatliches", cursive;
   color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-size: 30px;
 }

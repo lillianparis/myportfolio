@@ -13,16 +13,16 @@ function footer() {
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="text">Lillian Paris</h5>
-                <p class="text">Full Stack Web Developer</p>
+                <h5 class="text2">Lillian Paris</h5>
+                <p class="tex2t">Full Stack Web Developer</p>
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="text">Check Out More</h5>
                 <ul>
                   {/* <li><a class="grey-text text-lighten-3" href="#!"><FontAwesomeIcon icon="fa-brands fa-github" /></a></li> */}
-                  <li><a class="text" id="1" href="https://www.linkedin.com/in/lillian-paris-7340401b4/">Linkedin</a></li>
-                  <li><a class="text" href="#!">Resume</a></li>
-                  <li><a class="text" href="#!">Portfolio</a></li>
+                  <li><a class="text2" id="1" href="https://www.linkedin.com/in/lillian-paris-7340401b4/">Linkedin</a></li>
+                  <li><a class="text2" href="#!">Resume</a></li>
+                  <li><a class="text2" href="#!">Portfolio</a></li>
                 </ul>
               </div>
             </div>
