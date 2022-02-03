@@ -4,7 +4,8 @@ import { Grid } from "@material-ui/core";
 import { Row, Container } from "react-bootstrap";
 import "../Landing/style.css";
 import Caro from "../../Components/Carousel/carousel";
-import About from "../../Components/About/about"
+import About from "../../Components/About/about";
+import DevCard from "../../Components/Cards/cards";
 
 const Landing = () => {
 
@@ -52,6 +53,12 @@ const Landing = () => {
 <Container>
   <Row>
   <About />
+  </Row>
+</Container>
+
+<Container>
+  <Row>
+  <DevCard />
   </Row>
 </Container>
   
