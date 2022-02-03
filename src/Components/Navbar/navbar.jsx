@@ -1,5 +1,6 @@
 import React from "react";
 import "materialize-css";
+import "../Navbar/style.css";
 
 function Navbar() {
     return (
