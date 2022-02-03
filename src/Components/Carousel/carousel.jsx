@@ -60,53 +60,53 @@ export class Caro extends Component {
           <div>
 
             <div class="carousel">
-              <a class="carousel-item">
-                <img src={Chai} />
+              <a href="16" class="carousel-item">
+                <img alt="chai Img" src={Chai} />
               </a>
-              <a class="carousel-item">
-                <img src={css} />
+              <a href="15" class="carousel-item">
+                <img alt="css Img" src={css} />
               </a>
-              <a class="carousel-item">
-                <img src={express} />
+              <a href="14" class="carousel-item">
+                <img alt="express Img" src={express} />
               </a>
-              <a class="carousel-item">
-                <img src={firebase} />
+              <a href="13" class="carousel-item">
+                <img alt="firebase Img" src={firebase} />
               </a>
-              <a class="carousel-item">
-                <img src={javascript} />
+              <a href="12" class="carousel-item">
+                <img alt="javascript Img" src={javascript} />
               </a>
-              <a class="carousel-item">
-                <img src={materialize} />
+              <a href="11" class="carousel-item">
+                <img alt="materialize Img" src={materialize} />
               </a>
-              <a class="carousel-item">
-                <img src={mongo} />
+              <a href="10" class="carousel-item">
+                <img alt="m Img" src={mongo} />
               </a>
-              <a class="carousel-item">
-                <img src={mysql} />
+              <a href="9" class="carousel-item">
+                <img alt="se Img" src={mysql} />
               </a>
-              <a class="carousel-item">
-                <img src={node} />
+              <a href="8" class="carousel-item">
+                <img alt="n Img" src={node} />
               </a>
-              <a class="carousel-item">
-                <img src={react} />
+              <a href="7" class="carousel-item">
+                <img alt="r Img" src={react} />
               </a>
-              <a class="carousel-item">
-                <img src={sass} />
+              <a href="6" class="carousel-item">
+                <img alt="s Img "src={sass} />
               </a>
-              <a class="carousel-item">
-                <img src={sequelize} />
+              <a href="5" class="carousel-item">
+                <img alt="s Img" src={sequelize} />
               </a>
-              <a class="carousel-item">
-                <img src={html} />
+              <a href="4" class="carousel-item">
+                <img alt="html Img" src={html} />
               </a>
-              <a class="carousel-item">
-                <img src={storybook} />
+              <a href="3" class="carousel-item">
+                <img alt="storybook Img"  src={storybook} />
               </a>
-              <a class="carousel-item">
-                <img src={bootstrap} />
+              <a href="2" class="carousel-item">
+                <img alt="Bootstrap Img" src={bootstrap} />
               </a>
-              <a class="carousel-item">
-                <img src={chakira} />
+              <a href="1" class="carousel-item">
+                <img alt="Carousel Img" src={chakira} />
               </a>
             </div>
           </div>
