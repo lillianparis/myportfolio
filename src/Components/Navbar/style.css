@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+nav {
+  font-family: "Staatliches", cursive;
+}
+
+nav ul a {
+  color: black;
+  font-size: 35px;
+  text-shadow: 1px 2px #a0a3a8;
+  letter-spacing: 2px;
+}
+
+nav .brand-logo {
+  color: black;
+  font-size: 35px;
+  text-shadow: 1px 2px #a0a3a8;
+  left: 45px;
+  letter-spacing: 3px;
+}
