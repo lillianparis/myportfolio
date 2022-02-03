@@ -20,7 +20,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="Password" src={Password} />
+                                <img alt="1" class="Password" src={Password} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Password Generator<i class="material-icons right">more_vert</i></span>
@@ -39,7 +39,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="teamprofilegenerator" src={Team} />
+                                <img alt="2" class="teamprofilegenerator" src={Team} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Team Profile Generator<i class="material-icons right">more_vert</i></span>
@@ -61,7 +61,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="notetaker" src={Note} />
+                                <img alt="3" class="notetaker" src={Note} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Note Taker<i class="material-icons right">more_vert</i></span>
@@ -79,7 +79,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="schedule" src={Schedule} />
+                                <img alt="4" class="schedule" src={Schedule} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Workday Scheduler<i class="material-icons right">more_vert</i></span>
@@ -102,7 +102,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src={Artscape} />
+                                <img alt="5" class="activator" src={Artscape} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Artscape<i class="material-icons right">more_vert</i></span>
@@ -119,7 +119,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src={Toolkit} />
+                                <img alt="6" class="activator" src={Toolkit} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Toolkit<i class="material-icons right">more_vert</i></span>
@@ -136,7 +136,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src={Loading} />
+                                <img alt="7" class="activator" src={Loading} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Shopper<i class="material-icons right">more_vert</i></span>
@@ -152,7 +152,7 @@ function Devcard() {
                     <div class="col s12 m6 l3"><p></p>
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src={Invitor} />
+                                <img alt="8" class="activator" src={Invitor} />
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">RSVPlanner<i class="material-icons right">more_vert</i></span>
