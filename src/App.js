@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from "../src/Components/Navbar/navbar";
 import Landing from "../src/Pages/Landing/landing";
-import Footer from "../src/Components/Footer/footer";
+
 import Contact from "../src/Pages/Contact/contact";
 import Developments from "../src/Pages/Developments/developments";
 import Resume from "../src/Pages/Resume/resume";
@@ -26,7 +26,7 @@ function App() {
         </Routes>
       </Router>
  
-      <Footer />
+    
     </>
   );
 }

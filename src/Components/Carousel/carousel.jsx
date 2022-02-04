@@ -68,6 +68,7 @@ componentDidMount() {
         <Row>
           <h1 class="text">Languages
           </h1>
+          <h4 class="text">(Scroll to see more)</h4>
           <div>
 
             <div class="carousel">

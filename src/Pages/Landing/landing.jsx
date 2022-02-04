@@ -6,7 +6,7 @@ import "../Landing/style.css";
 import Caro from "../../Components/Carousel/carousel";
 import About from "../../Components/About/about";
 import DevCard from "../../Components/Cards/cards";
-// import Footer from "../../Components/Footer/footer";
+import Footer from "../../Components/Footer/footer";
 
 const Landing = () => {
 
@@ -63,7 +63,7 @@ const Landing = () => {
   </Row>
 </Container>
   
-{/* <Footer /> */}
+<Footer />
         </>
 
 );
