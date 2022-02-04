@@ -12,7 +12,7 @@ const Developments = () => {
 
                     <Carousel />
 
-                    <h1>Complete Applications</h1>
+              
                     <DevCards />
 </div>
 </body>

@@ -15,7 +15,7 @@ function Devcard() {
         <div class="hi">
         <body>
             {/* <div class="container"> */}
-
+            <h1>Complete Applications</h1>
                 <div class="row">
 
                     <div class="col s12 m6 l3"><p></p>
