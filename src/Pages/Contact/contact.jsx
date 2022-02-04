@@ -1,5 +1,5 @@
 import React from 'react';
-import { Form, Button, Container, Card } from 'react-bootstrap';
+import { Form, Button, Container } from 'react-bootstrap';
 import { useForm, ValidationError } from '@formspree/react';
 import "../Contact/style.css";
 
@@ -9,8 +9,10 @@ function ContactForm() {
         return <p class="hello">Thanks for your Feedback!</p>;
     }
     return (
+
+        <div class="wrap">
         <Container>
-            <Card>
+        
                 <div class="form">
                     <Form onSubmit={handleSubmit}>
                         <Form.Label htmlFor="email">
@@ -45,8 +47,9 @@ function ContactForm() {
 
                     </Form>
                 </div>
-            </Card>
+           
         </Container>
+        </div>
     );
 }
 
