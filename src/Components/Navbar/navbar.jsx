@@ -4,6 +4,7 @@ import "../Navbar/style.css";
 
 
 function Navbar() {
+  
     return (
         <nav class="transparent">
         <div class="nav-wrapper">

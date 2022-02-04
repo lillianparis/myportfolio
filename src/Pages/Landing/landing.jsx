@@ -10,28 +10,29 @@ import Footer from "../../Components/Footer/footer";
 
 const Landing = () => {
 
-    return (
-      <>
-        <div class="page">
-          <Grid
+  return (
+    <>
+      <div class="page">
+        <Grid
+          container
+          justify="center"
+          alignItems="center"
+        >
+
+          <Typed
+            strings={['Hello My Name is Lillian']}
+            typeSpeed={40}
+          />
+          <br />
+        </Grid>
+
+        {/* <Grid
             container
             justify="center"
             alignItems="center"
           >
-  
             <Typed
-              strings={['Hello My Name is Lilli']}
-              typeSpeed={40}
-            />
-            <br />
-          </Grid>
-  
-          <Grid
-            container
-            justify="center"
-            alignItems="center"
-          >
-            <Typed
+           
               strings={[
                 'Full Stack Web Developer',
                 'Web Development Instructor',
@@ -40,33 +41,33 @@ const Landing = () => {
               backSpeed={50}
               attr="placeholder"
               loop >
-              <input type="text" class="hello" />
+              <input type="text"  class="hello" />
             </Typed>
-          </Grid>
-  
-        </div>
-<Container>
-  <Row>
-  <Caro />
-  </Row>
-</Container>
+          </Grid> */}
 
-<Container>
-  <Row>
-  <About />
-  </Row>
-</Container>
+      </div>
+      <Container>
+        <Row>
+          <Caro />
+        </Row>
+      </Container>
 
-<Container>
-  <Row>
-  <DevCard />
-  </Row>
-</Container>
-  
-<Footer />
-        </>
+      <Container>
+        <Row>
+          <About />
+        </Row>
+      </Container>
 
-);
+      <Container>
+        <Row>
+          <DevCard />
+        </Row>
+      </Container>
+
+      <Footer />
+    </>
+
+  );
 };
 
 export default Landing;

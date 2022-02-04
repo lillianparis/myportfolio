@@ -19,7 +19,7 @@ function Devcard() {
                 <div class="row">
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="1" class="Password" src={Password} />
                             </div>
@@ -38,7 +38,7 @@ function Devcard() {
 
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="2" class="teamprofilegenerator" src={Team} />
                             </div>
@@ -60,7 +60,7 @@ function Devcard() {
                     </div>
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="5" class="notetaker" src={Note} />
                             </div>
@@ -78,7 +78,7 @@ function Devcard() {
                     </div>
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="1" class="schedule" src={Schedule} />
                             </div>
@@ -101,7 +101,7 @@ function Devcard() {
                 <div class="row">
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="2" class="activator" src={Artscape} />
                             </div>
@@ -118,7 +118,7 @@ function Devcard() {
 
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="3" class="activator" src={Toolkit} />
                             </div>
@@ -135,7 +135,7 @@ function Devcard() {
                     </div>
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="4" class="activator" src={Loading} />
                             </div>
@@ -151,7 +151,7 @@ function Devcard() {
                     </div>
 
                     <div class="col s12 m6 l3"><p></p>
-                        <div class="card">
+                        <div class="card" id="hello">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img alt="5" class="activator" src={Invitor} />
                             </div>
@@ -165,9 +165,9 @@ function Devcard() {
                             </div>
                         </div>
                     </div>
-                </div>
+                {/* </div> */}
 
-            {/* </div> */}
+            </div>
         </body>
         </div>
     )
