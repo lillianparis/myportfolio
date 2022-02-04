@@ -1,5 +1,12 @@
+.App {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hero {
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
 iframe {
-   
-    display: block;
-    margin-left: 200px;
- }
+    width: 100%;
+}
