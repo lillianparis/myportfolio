@@ -12,21 +12,21 @@ import ParticlesBg from 'particles-bg';
 function App() {
   return (
     <>
-     <div className="cobweb">
+      <div className="cobweb">
         <ParticlesBg type="cobweb" bg={true} />
       </div>
       <Navbar />
       <Router>
         <Routes>
 
-          <Route exact path="/" element={<Landing/>} />
-          <Route exact path="/Developments" element={<Developments/>} />
-          <Route exact path="/Contact" element={<Contact/>} />
-          <Route exact path="/Resume" element={<Resume/>} />
+          <Route exact path="/" element={<Landing />} />
+          <Route exact path="/Developments" element={<Developments />} />
+          <Route exact path="/Contact" element={<Contact />} />
+          <Route exact path="/Resume" element={<Resume />} />
         </Routes>
       </Router>
- 
-    
+
+
     </>
   );
 }

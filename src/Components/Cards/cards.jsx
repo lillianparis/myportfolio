@@ -12,8 +12,9 @@ import "../Cards/style.css"
 
 function Devcard() {
     return (
+        <div class="hi">
         <body>
-            <div class="container">
+            {/* <div class="container"> */}
 
                 <div class="row">
 
@@ -166,8 +167,9 @@ function Devcard() {
                     </div>
                 </div>
 
-            </div>
+            {/* </div> */}
         </body>
+        </div>
     )
 }
 
