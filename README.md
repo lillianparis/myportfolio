@@ -6,6 +6,3 @@
 
 
 <img width="1792" alt="Screen Shot 2022-02-01 at 10 01 55 PM" src="https://user-images.githubusercontent.com/62733242/152095944-e26de2ad-f288-4187-8b89-0f648b85e531.png">
-
-
-<img width="1792" alt="Screen Shot 2022-02-01 at 10 02 20 PM" src="https://user-images.githubusercontent.com/62733242/152095934-bdd09643-aa8f-478f-8e03-6b7917411aad.png">
